@@ -44,8 +44,8 @@ This project is a simple graphical user interface (GUI) application built with P
 - **_user.json**: JSON file where the data is saved.
 
 ## Screenshots
-![Add a New Person](path-to-screenshot.png)
-![View Database](path-to-screenshot.png)
+![Add a New Person](D:\screenshots\add_a_new_person_screensot.png)
+![View Database](D:\screenshots\view_database.screenshot.png)
 
 ## Contributing
 If you want to contribute to this project, please follow these steps:
